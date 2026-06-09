@@ -6,6 +6,14 @@ Static GitHub Pages profile website built from the current CV in `D:\learning\AI
 
 This site presents Ravikiran Burugu's QA, technical operations, cloud deployment, GitHub repository coordination, and AI-assisted product-building profile in a modern web format.
 
+## CV Download
+
+The downloadable PDF CV is published at:
+
+```text
+assets/Ravikiran_Burugu_CV.pdf
+```
+
 ## Local Preview
 
 Use any static web server from this directory:
